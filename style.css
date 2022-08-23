@@ -1,0 +1,99 @@
+.la{
+    margin-top: 50px;
+}
+.spotify{
+    text-align: center;
+}
+.button{
+    margin-top: 10px;
+    width: 450px;
+    height: 40px;
+    background-color: rgb(0, 28, 239);
+    border: 0;
+    outline: 1;
+}
+.button2{
+    margin-top: 10px;
+    width: 450px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    border: 0;
+    outline: 1;
+}
+
+.save1{
+    width: 450px;
+    height: 40px;
+}
+.la2{
+    margin-top: 20px;
+    margin-right: 250px;
+}
+.save2{
+    width: 450px;
+    height: 40px;
+}
+.la3{
+    margin-top: 20px;
+    margin-right: 300px;
+}
+.save3{
+    width: 450px;
+    height: 40px;
+}
+.la4{
+    margin-top: 20px;
+    margin-right: 300px;
+}
+.save4{
+    width: 450px;
+    height: 40px;
+}
+.la5{
+    margin-top: 20px;
+    margin-right: 200px;
+}
+.name{
+    margin-right: 235px;
+}
+.birth{
+    margin-top: 20px;
+    margin-right: 250px;
+}
+.room1{
+    width: 130px;
+    height: 50px;
+    
+}
+.room2{
+    height: 55px;
+    width: 150px;
+    
+}
+.room3{
+    height: 50px;
+    width: 150px;
+    
+}
+.gender{
+    margin-right:320px;
+}
+.check{
+    margin-top: 20px;
+}
+.men{
+    
+}
+.girl{
+    margin-left: 150px;
+}
+.no{
+    margin-left: 100px;
+}
+
+.button4{
+    height: 50px;
+    width: 150px;
+    
+    
+}
